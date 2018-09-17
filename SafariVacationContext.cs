@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using orm_safari.models;
 
 namespace orm_safari
 {
@@ -25,6 +26,9 @@ namespace orm_safari
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {}
+        {
+        }
+        
+        public DbSet<SeenAnimals> SeenAnimalsTable { get; set; }
     }
 }
