@@ -1,0 +1,11 @@
+/Users/chris/sdg-assignments/week-9/orm-safari/bin/Debug/netcoreapp2.1/orm-safari.deps.json
+/Users/chris/sdg-assignments/week-9/orm-safari/bin/Debug/netcoreapp2.1/orm-safari.runtimeconfig.json
+/Users/chris/sdg-assignments/week-9/orm-safari/bin/Debug/netcoreapp2.1/orm-safari.runtimeconfig.dev.json
+/Users/chris/sdg-assignments/week-9/orm-safari/bin/Debug/netcoreapp2.1/orm-safari.dll
+/Users/chris/sdg-assignments/week-9/orm-safari/bin/Debug/netcoreapp2.1/orm-safari.pdb
+/Users/chris/sdg-assignments/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.csprojAssemblyReference.cache
+/Users/chris/sdg-assignments/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.csproj.CoreCompileInputs.cache
+/Users/chris/sdg-assignments/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.AssemblyInfoInputs.cache
+/Users/chris/sdg-assignments/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.AssemblyInfo.cs
+/Users/chris/sdg-assignments/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.dll
+/Users/chris/sdg-assignments/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.pdb
